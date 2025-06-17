@@ -41,5 +41,8 @@ This README.md contains:</br>
 </br>
 
 # Goals for the next version of the generator:
-1. Set a more beautiful version of the "printed receipt".
-2. Make the database easier to implement.
+1. Set a more beautiful version of the "printed receipt".</br>
+2. Make the database easier to implement.</br>
+</br>
+</br>
+*Special Thanks to ChatGPT*
