@@ -1,0 +1,33 @@
+{
+  "colors": [
+    { "hex": "#6A5ACD", "name": "Slate Blue" },
+    { "hex": "#FF6F61", "name": "Coral Red" },
+    { "hex": "#228B22", "name": "Forest Green" },
+    { "hex": "#D2691E", "name": "Cinnamon" },
+    { "hex": "#20B2AA", "name": "Sea Green" },
+    { "hex": "#F0E68C", "name": "Khaki Mist" },
+    { "hex": "#FAEBD7", "name": "Antique White" },
+    { "hex": "#B0C4DE", "name": "Dusty Sky" }
+  ],
+  "keywords": [
+    { "words": ["silence", "mirror"], "reference": "Borges, 'The Mirrors'" },
+    { "words": ["fracture", "light"], "reference": "Rilke, 'Sonnets to Orpheus'" },
+    { "words": ["threshold", "dream"], "reference": "Calvino, 'Invisible Cities'" },
+    { "words": ["embers", "longing"], "reference": "Li-Young Lee, 'Persimmons'" },
+    { "words": ["gravity", "distance"], "reference": "Ocean Vuong, 'On Earth We're Briefly Gorgeous'" },
+    { "words": ["mist", "origin"], "reference": "Seamus Heaney, 'Bogland'" },
+    { "words": ["loop", "memory"], "reference": "Joyce, 'Ulysses'" },
+    { "words": ["hunger", "stone"], "reference": "Louise Glück, 'The Wild Iris'" }
+  ],
+  "lines": [
+    { "text": "I dream of lost vocabularies that might express some of what we no longer can. — Jack Gilbert, *The Forgotten Dialect of the Heart*" },
+    { "text": "It is not down in any map; true places never are. — Herman Melville, *Moby-Dick*" },
+    { "text": "We are all broken, that's how the light gets in. — Ernest Hemingway" },
+    { "text": "Time is the substance I am made of. — Jorge Luis Borges" },
+    { "text": "We passed the setting sun — or rather, he passed us. — Emily Dickinson" },
+    { "text": "Whatever you think the world is withholding from you, you are withholding from the world. — Eckhart Tolle" },
+    { "text": "To see a World in a Grain of Sand. — William Blake, *Auguries of Innocence*" },
+    { "text": "Hope is the thing with feathers that perches in the soul. — Emily Dickinson" },
+    { "text": "人之初，性本善。——佚名，*三字经*"}
+  ]
+}

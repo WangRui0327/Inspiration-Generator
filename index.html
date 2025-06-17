@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Theme and Inspiration Generator</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+</head>
+<body>
+  <button id="print">Print Receipt of Ideas</button>
+  <div id="content">
+    <div id="color"></div>
+    <div id="keywords"></div>
+    <div id="line"></div>
+  </div>
+
+  <script src="html2pdf.bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+
+<hr>
+<h2>Add New Entry</h2>
+<div id="form-section">
+  <div>
+    <h3>Add Color</h3>
+    Hex: <input type="text" id="newColorHex" placeholder="#RRGGBB">
+    Name: <input type="text" id="newColorName" placeholder="Color name">
+    <button onclick="addColor()">Add Color</button>
+  </div>
+
+  <div>
+    <h3>Add Keywords</h3>
+    Word 1: <input type="text" id="keyword1">
+    Word 2: <input type="text" id="keyword2">
+    Reference: <input type="text" id="keywordRef">
+    <button onclick="addKeywords()">Add Keywords</button>
+  </div>
+
+  <div>
+    <h3>Add Line</h3>
+    Poetic Line: <input type="text" id="poeticLine">
+    <button onclick="addLine()">Add Line</button>
+  </div>
+
+  <br>
+  <button onclick="downloadData()">Download Updated Data for Substitution</button>
+</div>
+
+
+</html>
