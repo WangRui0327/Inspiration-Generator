@@ -27,9 +27,9 @@ This README.md contains:</br>
 8. If you want to stop the localhost, go back to VS Code terminal and press Ctrl+C to kill the process.</br>
 <br>
 -Steps to personalize your own database (the first way, through the interface): </br>
-1. Make sure you've successfully run the code following the "Steps to set up and use this generator" and see the colored interface on your browser.
-2. See the part "Add an Entry". Follow the tips displayed to fill in the parts you want to add. Please follow the format of the displayed color/words/sentence for best visual representation.
-3. After you type in the parts you want to add, click "Download Updated Data For Substitution". A new data.json would be downloaded automatically.
+1. Make sure you've successfully run the code following the "Steps to set up and use this generator" and see the colored interface on your browser.</br>
+2. See the part "Add an Entry". Follow the tips displayed to fill in the parts you want to add. Please follow the format of the displayed color/words/sentence for best visual representation.</br>
+3. After you type in the parts you want to add, click "Download Updated Data For Substitution". A new data.json would be downloaded automatically.</br>
 4. Kill the process. Open the folder where the generator lies. Substitute this new downloaded version into the folder and delete the old one, and restart the localhost. </br>
 </br>
 -Steps to peronalize your own database (the second way, directly change data.json): </br>
